@@ -1,0 +1,23 @@
+    1  clear
+    2  vim
+    3  sudo apt install vim
+    4  mkdir
+    5  mkdir 2013223
+    6  ls
+    7  cd 2013223
+    8  touch example.txt
+    9  ls
+   10  vi example.txt
+   11  ls
+   12  ~/Desktop$ cat example.txt
+   13  tail/Home/2013223/example.txt
+   14  example.txt
+   15  tail example.txt
+   16  vi example.txt
+   17  tail example.txt
+   18  head -5 example.txt
+   19  tail-5 example.txt
+   20  tail -5 example.txt
+   21  touch history.txt
+   22  history
+

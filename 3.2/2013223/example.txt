@@ -1,0 +1,6 @@
+//2013223
+To start vim editor, run the command: vim
+THe editor is now in command mode. To start editing the file content, enter: :i[enter]
+To save: :w
+To save and exit: :wq
+to exit: :q
